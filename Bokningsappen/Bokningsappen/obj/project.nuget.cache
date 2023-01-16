@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oN4MRJT2ORwNPmpuEnEbthQ7wkWl/C2W9MnWO5lIs0QBmqxoH/wvkyr+tU3samwn1hf9kaPMDAZG0RGJ9hIe1g==",
+  "dgSpecHash": "3TxhdkWYOgbWDJM/oI2D2AO1rT+AOYN9nhwtzifyFQBKit+W0mJdZZgfGDudYDtwodBgPUApTYK4/lbQD7sRHQ==",
   "success": true,
-  "projectFilePath": "D:\\KOD\\Bokningsappen\\Bokningsappen\\Bokningsappen.csproj",
+  "projectFilePath": "D:\\Github\\KOD\\Bokningsappen\\Bokningsappen\\Bokningsappen\\Bokningsappen.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\garli\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\garli\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

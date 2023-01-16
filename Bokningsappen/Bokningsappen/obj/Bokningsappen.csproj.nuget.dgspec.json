@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KOD\\Bokningsappen\\Bokningsappen\\Bokningsappen.csproj": {}
+    "D:\\Github\\KOD\\Bokningsappen\\Bokningsappen\\Bokningsappen\\Bokningsappen.csproj": {}
   },
   "projects": {
-    "D:\\KOD\\Bokningsappen\\Bokningsappen\\Bokningsappen.csproj": {
+    "D:\\Github\\KOD\\Bokningsappen\\Bokningsappen\\Bokningsappen\\Bokningsappen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KOD\\Bokningsappen\\Bokningsappen\\Bokningsappen.csproj",
+        "projectUniqueName": "D:\\Github\\KOD\\Bokningsappen\\Bokningsappen\\Bokningsappen\\Bokningsappen.csproj",
         "projectName": "Bokningsappen",
-        "projectPath": "D:\\KOD\\Bokningsappen\\Bokningsappen\\Bokningsappen.csproj",
+        "projectPath": "D:\\Github\\KOD\\Bokningsappen\\Bokningsappen\\Bokningsappen\\Bokningsappen.csproj",
         "packagesPath": "C:\\Users\\garli\\.nuget\\packages\\",
-        "outputPath": "D:\\KOD\\Bokningsappen\\Bokningsappen\\obj\\",
+        "outputPath": "D:\\Github\\KOD\\Bokningsappen\\Bokningsappen\\Bokningsappen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\garli\\AppData\\Roaming\\NuGet\\NuGet.Config",
