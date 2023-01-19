@@ -172,3 +172,4 @@ C:\YH\SYSTEM22\GitHub\Bokningsappen\Bokningsappen\Bokningsappen\obj\Debug\net6.0
 C:\YH\SYSTEM22\GitHub\Bokningsappen\Bokningsappen\Bokningsappen\obj\Debug\net6.0\Bokningsappen.pdb
 C:\YH\SYSTEM22\GitHub\Bokningsappen\Bokningsappen\Bokningsappen\obj\Debug\net6.0\Bokningsappen.genruntimeconfig.cache
 C:\YH\SYSTEM22\GitHub\Bokningsappen\Bokningsappen\Bokningsappen\obj\Debug\net6.0\ref\Bokningsappen.dll
+C:\YH\SYSTEM22\GitHub\Bokningsappen\Bokningsappen\Bokningsappen\bin\Debug\net6.0\Dapper.dll

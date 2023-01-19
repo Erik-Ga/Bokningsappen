@@ -282,7 +282,8 @@ namespace Bokningsappen.Methods
                                 break;
                             case 'q':
                                 Console.Clear();
-
+                                GetDapperData.GetWhiteBoards();
+                                GetDapperData.GetSeats();
                                 Console.ReadLine();
                                 break;
                             case 's':
