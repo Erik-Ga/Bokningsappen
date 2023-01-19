@@ -8,7 +8,7 @@ namespace Bokningsappen
     {
         static void Main(string[] args)
         {
-            CRUD.WelcomeIntro();           
+            CRUD.WelcomeIntro();
         }
     }
 }

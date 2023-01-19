@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\KOD\\Bokningsappen\\Bokningsappen\\Bokningsappen\\Bokningsappen.csproj": {}
+    "C:\\YH\\SYSTEM22\\GitHub\\Bokningsappen\\Bokningsappen\\Bokningsappen\\Bokningsappen.csproj": {}
   },
   "projects": {
-    "D:\\Github\\KOD\\Bokningsappen\\Bokningsappen\\Bokningsappen\\Bokningsappen.csproj": {
+    "C:\\YH\\SYSTEM22\\GitHub\\Bokningsappen\\Bokningsappen\\Bokningsappen\\Bokningsappen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\KOD\\Bokningsappen\\Bokningsappen\\Bokningsappen\\Bokningsappen.csproj",
+        "projectUniqueName": "C:\\YH\\SYSTEM22\\GitHub\\Bokningsappen\\Bokningsappen\\Bokningsappen\\Bokningsappen.csproj",
         "projectName": "Bokningsappen",
-        "projectPath": "D:\\Github\\KOD\\Bokningsappen\\Bokningsappen\\Bokningsappen\\Bokningsappen.csproj",
+        "projectPath": "C:\\YH\\SYSTEM22\\GitHub\\Bokningsappen\\Bokningsappen\\Bokningsappen\\Bokningsappen.csproj",
         "packagesPath": "C:\\Users\\garli\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\KOD\\Bokningsappen\\Bokningsappen\\Bokningsappen\\obj\\",
+        "outputPath": "C:\\YH\\SYSTEM22\\GitHub\\Bokningsappen\\Bokningsappen\\Bokningsappen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\garli\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,8 +61,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -71,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
